@@ -558,5 +558,133 @@
   "source": "llm",
   "confidence": "high",
   "note": "Platt originated the lead role and is the cast recording's central voice."
+ },
+ {
+  "from": "Lee Fields & The Expressions",
+  "to": "Durand Jones & The Indications",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Veteran deep-soul singer since the 60s/70s scene, frequently cited as a mentor influence on the younger soul-revival generation Durand Jones & The Indications belongs to."
+ },
+ {
+  "from": "Durand Jones",
+  "to": "Durand Jones & The Indications",
+  "type": "part_of",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Durand Jones is the band's lead singer, who also records under his own name as a solo act."
+ },
+ {
+  "from": "Black Pumas",
+  "to": "Leon Bridges",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Both lead the modern Grammy-nominated soul-revival wave, frequently compared."
+ },
+ {
+  "from": "Curtis Harding",
+  "to": "St. Paul & The Broken Bones",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Contemporary retro-soul singer-songwriters of the same revival era."
+ },
+ {
+  "from": "Anderson East",
+  "to": "St. Paul & The Broken Bones",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Both modern Southern soul-revival artists working in a similar retro-soul lane."
+ },
+ {
+  "from": "Ne-Yo",
+  "to": "Mario",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Ne-Yo wrote and produced Mario's 2004 hit 'Let Me Love You.'"
+ },
+ {
+  "from": "Mario",
+  "to": "Chris Brown",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Both broke through as young R&B stars in the mid-2000s and are frequently grouped together from that era."
+ },
+ {
+  "from": "Olivia Rodrigo",
+  "to": "Chappell Roan",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Both part of the 2023-2024 breakout pop-star cohort frequently discussed together, though musically distinct."
+ },
+ {
+  "from": "Alicia Keys",
+  "to": "Adele",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Both piano-driven soul-pop vocalists frequently compared for vocal power and songwriting."
+ },
+ {
+  "from": "Riley Green",
+  "to": "Ella Langley",
+  "type": "collaborated_with",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Their 2024 duet 'You Look Like You Love Me' was a major country radio hit."
+ },
+ {
+  "from": "Luke Grimes",
+  "to": "Chris Stapleton",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Grimes' debut album drew critical comparisons to Stapleton-style outlaw country/Americana."
+ },
+ {
+  "from": "Dierks Bentley",
+  "to": "Jon Pardi",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Both established modern neotraditional country mainstays."
+ },
+ {
+  "from": "Granger Smith",
+  "to": "Jason Aldean",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Both mainstream country-rock radio staples appealing to a similar audience."
+ },
+ {
+  "from": "Tory Lanez",
+  "to": "PARTYNEXTDOOR",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Contemporaries in the same moody Toronto R&B scene and era, though on different labels."
+ },
+ {
+  "from": "Weyes Blood",
+  "to": "Drugdealer",
+  "type": "collaborated_with",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Weyes Blood (Natalie Mering) has appeared on Drugdealer recordings; both are part of the same LA soft-rock-revival circle."
+ },
+ {
+  "from": "Gary Lucas",
+  "to": "Jeff Buckley",
+  "type": "collaborated_with",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Co-wrote 'Grace' and 'Mojo Pin' with Buckley; the two were bandmates in Gods and Monsters before Buckley's solo career."
  }
 ]

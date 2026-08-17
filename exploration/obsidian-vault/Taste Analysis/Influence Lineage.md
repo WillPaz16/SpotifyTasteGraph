@@ -82,3 +82,19 @@ Curated edges are ground truth from your hand-built knowledge graph. LLM-generat
 - **Leon Bridges** sounds_like **St. Paul & The Broken Bones** *(confidence: high)* — Both lead the modern Southern soul-revival wave.
 - **Kate Bollinger** sounds_like **Wild Rivers** *(confidence: medium)* — Shared dreamy, understated indie-folk-pop sensibility.
 - **Ben Platt** part_of **Original Broadway Cast of Dear Evan Hansen** *(confidence: high)* — Platt originated the lead role and is the cast recording's central voice.
+- **Lee Fields & The Expressions** influenced **Durand Jones & The Indications** *(confidence: high)* — Veteran deep-soul singer since the 60s/70s scene, frequently cited as a mentor influence on the younger soul-revival generation Durand Jones & The Indications belongs to.
+- **Durand Jones** part_of **Durand Jones & The Indications** *(confidence: high)* — Durand Jones is the band's lead singer, who also records under his own name as a solo act.
+- **Black Pumas** sounds_like **Leon Bridges** *(confidence: high)* — Both lead the modern Grammy-nominated soul-revival wave, frequently compared.
+- **Curtis Harding** sounds_like **St. Paul & The Broken Bones** *(confidence: medium)* — Contemporary retro-soul singer-songwriters of the same revival era.
+- **Anderson East** sounds_like **St. Paul & The Broken Bones** *(confidence: medium)* — Both modern Southern soul-revival artists working in a similar retro-soul lane.
+- **Ne-Yo** influenced **Mario** *(confidence: high)* — Ne-Yo wrote and produced Mario's 2004 hit 'Let Me Love You.'
+- **Mario** sounds_like **Chris Brown** *(confidence: medium)* — Both broke through as young R&B stars in the mid-2000s and are frequently grouped together from that era.
+- **Olivia Rodrigo** sounds_like **Chappell Roan** *(confidence: medium)* — Both part of the 2023-2024 breakout pop-star cohort frequently discussed together, though musically distinct.
+- **Alicia Keys** sounds_like **Adele** *(confidence: medium)* — Both piano-driven soul-pop vocalists frequently compared for vocal power and songwriting.
+- **Riley Green** collaborated_with **Ella Langley** *(confidence: high)* — Their 2024 duet 'You Look Like You Love Me' was a major country radio hit.
+- **Luke Grimes** sounds_like **Chris Stapleton** *(confidence: medium)* — Grimes' debut album drew critical comparisons to Stapleton-style outlaw country/Americana.
+- **Dierks Bentley** sounds_like **Jon Pardi** *(confidence: medium)* — Both established modern neotraditional country mainstays.
+- **Granger Smith** sounds_like **Jason Aldean** *(confidence: medium)* — Both mainstream country-rock radio staples appealing to a similar audience.
+- **Tory Lanez** sounds_like **PARTYNEXTDOOR** *(confidence: medium)* — Contemporaries in the same moody Toronto R&B scene and era, though on different labels.
+- **Weyes Blood** collaborated_with **Drugdealer** *(confidence: high)* — Weyes Blood (Natalie Mering) has appeared on Drugdealer recordings; both are part of the same LA soft-rock-revival circle.
+- **Gary Lucas** collaborated_with **Jeff Buckley** *(confidence: high)* — Co-wrote 'Grace' and 'Mojo Pin' with Buckley; the two were bandmates in Gods and Monsters before Buckley's solo career.

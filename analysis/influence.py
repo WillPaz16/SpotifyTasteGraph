@@ -18,6 +18,12 @@ OUTPUT_PATH = "data/influence_edges.json"
 SKIPPED_INSUFFICIENT_KNOWLEDGE = [
     "SIENNA SPIRO", "The Something Specials", "DON WEST",
     "Marlon Funaki", "Neu Blume", "LF SYSTEM",
+    # Added while scoping the discovery-frontier/bridge-artist expansion —
+    # newer or more niche artists I don't have confident, specific,
+    # citable knowledge about beyond generic genre category.
+    "Shabazz Pbg", "Hajaj", "Paul Cherry", "Temples", "Oliver Hazard",
+    "The National Forest", "St. Anthony Mann", "Hudson Westbrook",
+    "Tucker Wetmore", "Vincent Mason", "Drew Baldridge", "Drayton Farley",
 ]
 
 # Each entry: (from_name, to_name, type, confidence, note)
@@ -104,6 +110,44 @@ LLM_EDGES = [
      "Shared dreamy, understated indie-folk-pop sensibility."),
     ("Ben Platt", "Original Broadway Cast of Dear Evan Hansen", "part_of", "high",
      "Platt originated the lead role and is the cast recording's central voice."),
+
+    # Added for the atlas's geometric discovery frontier + computed bridge
+    # artists (see PROJECT_STATE.md) — scoped to artists the pipeline
+    # already surfaced as relevant, not attempted across the full 15K-artist
+    # crawled universe, per the same "don't fabricate for artists with no
+    # reliable basis" rule as the rest of this file.
+    ("Lee Fields & The Expressions", "Durand Jones & The Indications", "influenced", "high",
+     "Veteran deep-soul singer since the 60s/70s scene, frequently cited as a mentor influence on the younger soul-revival generation Durand Jones & The Indications belongs to."),
+    ("Durand Jones", "Durand Jones & The Indications", "part_of", "high",
+     "Durand Jones is the band's lead singer, who also records under his own name as a solo act."),
+    ("Black Pumas", "Leon Bridges", "sounds_like", "high",
+     "Both lead the modern Grammy-nominated soul-revival wave, frequently compared."),
+    ("Curtis Harding", "St. Paul & The Broken Bones", "sounds_like", "medium",
+     "Contemporary retro-soul singer-songwriters of the same revival era."),
+    ("Anderson East", "St. Paul & The Broken Bones", "sounds_like", "medium",
+     "Both modern Southern soul-revival artists working in a similar retro-soul lane."),
+    ("Ne-Yo", "Mario", "influenced", "high",
+     "Ne-Yo wrote and produced Mario's 2004 hit 'Let Me Love You.'"),
+    ("Mario", "Chris Brown", "sounds_like", "medium",
+     "Both broke through as young R&B stars in the mid-2000s and are frequently grouped together from that era."),
+    ("Olivia Rodrigo", "Chappell Roan", "sounds_like", "medium",
+     "Both part of the 2023-2024 breakout pop-star cohort frequently discussed together, though musically distinct."),
+    ("Alicia Keys", "Adele", "sounds_like", "medium",
+     "Both piano-driven soul-pop vocalists frequently compared for vocal power and songwriting."),
+    ("Riley Green", "Ella Langley", "collaborated_with", "high",
+     "Their 2024 duet 'You Look Like You Love Me' was a major country radio hit."),
+    ("Luke Grimes", "Chris Stapleton", "sounds_like", "medium",
+     "Grimes' debut album drew critical comparisons to Stapleton-style outlaw country/Americana."),
+    ("Dierks Bentley", "Jon Pardi", "sounds_like", "medium",
+     "Both established modern neotraditional country mainstays."),
+    ("Granger Smith", "Jason Aldean", "sounds_like", "medium",
+     "Both mainstream country-rock radio staples appealing to a similar audience."),
+    ("Tory Lanez", "PARTYNEXTDOOR", "sounds_like", "medium",
+     "Contemporaries in the same moody Toronto R&B scene and era, though on different labels."),
+    ("Weyes Blood", "Drugdealer", "collaborated_with", "high",
+     "Weyes Blood (Natalie Mering) has appeared on Drugdealer recordings; both are part of the same LA soft-rock-revival circle."),
+    ("Gary Lucas", "Jeff Buckley", "collaborated_with", "high",
+     "Co-wrote 'Grace' and 'Mojo Pin' with Buckley; the two were bandmates in Gods and Monsters before Buckley's solo career."),
 ]
 
 

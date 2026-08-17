@@ -1,0 +1,199 @@
+[
+ {
+  "a": "H.E.R.",
+  "a_tags": [
+   "rnb",
+   "soul",
+   "pop",
+   "alternative rnb",
+   "female vocalists",
+   "neo-soul",
+   "electronic",
+   "united states",
+   "us",
+   "usa"
+  ],
+  "b": "Her",
+  "b_tags": [
+   "industrial",
+   "french",
+   "indie",
+   "soul",
+   "indie pop",
+   "polish",
+   "electronic",
+   "france",
+   "rnb",
+   "folktronica"
+  ],
+  "jaccard": 0.17647058823529413
+ },
+ {
+  "a": "Live",
+  "a_tags": [
+   "alternative rock",
+   "rock",
+   "alternative",
+   "grunge",
+   "90s",
+   "post-grunge",
+   "american",
+   "live",
+   "hard rock",
+   "the"
+  ],
+  "b": "Liv.e",
+  "b_tags": [
+   "soul",
+   "rnb",
+   "neo-soul",
+   "alternative rnb",
+   "hypnagogic pop",
+   "funk",
+   "hip-hop",
+   "psychedelic soul",
+   "neo-psychedelia",
+   "experimental"
+  ],
+  "jaccard": 0.0
+ },
+ {
+  "a": "sports.",
+  "a_tags": [
+   "emo",
+   "indie",
+   "midwest emo",
+   "pop punk",
+   "twinkly",
+   "indie rock",
+   "punk",
+   "twinkle emo",
+   "united states",
+   "usa"
+  ],
+  "b": "Sports",
+  "b_tags": [
+   "dream pop",
+   "indie",
+   "lo-fi",
+   "rock",
+   "indie rock",
+   "japanese",
+   "indie pop",
+   "canada",
+   "american",
+   "dreamgaze"
+  ],
+  "jaccard": 0.1111111111111111
+ },
+ {
+  "a": "Mike",
+  "a_tags": [
+   "rap",
+   "hip-hop",
+   "abstract hip-hop",
+   "abstract hip hop",
+   "experimental hip hop",
+   "jazz rap",
+   "lo-fi",
+   "east coast hip hop",
+   "conscious hip hop",
+   "hip hop"
+  ],
+  "b": "M.I.K.E.",
+  "b_tags": [
+   "trance",
+   "progressive trance",
+   "vocal trance",
+   "dance",
+   "electronic",
+   "belgium",
+   "uplifting trance",
+   "tech-trance",
+   "belgian",
+   "electronica"
+  ],
+  "jaccard": 0.0
+ },
+ {
+  "a": "Wet",
+  "a_tags": [
+   "indie pop",
+   "electronic",
+   "alternative rnb",
+   "art pop",
+   "ambient pop",
+   "synthpop",
+   "ambient",
+   "punk",
+   "female vocalists",
+   "american"
+  ],
+  "b": "W.E.T.",
+  "b_tags": [
+   "hard rock",
+   "melodic rock",
+   "aor",
+   "rock",
+   "melodic hard rock",
+   "heavy metal",
+   "jeff scott soto",
+   "melodic metal",
+   "sweden",
+   "progressive rock"
+  ],
+  "jaccard": 0.0
+ },
+ {
+  "a": "Bobby V",
+  "a_tags": [
+   "rnb",
+   "bobby valentino",
+   "slow jammin it",
+   "soul",
+   "r and b",
+   "hip hop",
+   "hip-hop",
+   "bobby v",
+   "r&b",
+   "love song"
+  ],
+  "b": "Bobby V.",
+  "b_tags": [
+   "rnb",
+   "soul",
+   "urban",
+   "progressive trance"
+  ],
+  "jaccard": 0.16666666666666666
+ },
+ {
+  "a": "A.C.T",
+  "a_tags": [
+   "progressive rock",
+   "progressive metal",
+   "art rock",
+   "swedish",
+   "progressive",
+   "rock",
+   "sweden",
+   "eclectic prog",
+   "pop",
+   "neo progressive"
+  ],
+  "b": "Act",
+  "b_tags": [
+   "new wave",
+   "synthpop",
+   "electronic",
+   "female vocalists",
+   "ztt",
+   "80s",
+   "french",
+   "heavy metal",
+   "synth pop",
+   "male vocalists"
+  ],
+  "jaccard": 0.0
+ }
+]

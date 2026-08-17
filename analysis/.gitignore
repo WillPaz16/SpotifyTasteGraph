@@ -3,3 +3,9 @@
 .spotify_token_cache
 output/
 StreamingHistory_music_*.json
+
+# Regenerable crawl/embedding artifacts (re-run crawl.py / embed.py) — large,
+# not worth tracking in git history.
+data/universe/universe.json
+data/universe/frontier.json
+data/universe/embeddings.npy

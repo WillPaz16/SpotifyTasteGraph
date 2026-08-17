@@ -1,0 +1,73 @@
+{
+  "n_artists_in_universe": 14940,
+  "n_artists_embedded": 14940,
+  "check_1_power_law": {
+    "alpha": 2.9601172025787923,
+    "xmin": 21.0,
+    "ks_distance": 0.15102768462326566,
+    "loglikelihood_ratio_vs_exponential": -1079.7774249983995,
+    "p_value_vs_exponential": 0.0,
+    "n_nodes_with_degree": 14939,
+    "mean_degree": 31.173572528281678
+  },
+  "check_2_link_prediction": {
+    "n_holdout_edges": 23285,
+    "n_negative_pairs": 23285,
+    "auc_embedding": 0.9943142430975345,
+    "auc_preferential_attachment_baseline": 0.6682660218265244,
+    "passes_0.7_threshold": true
+  },
+  "check_3_known_lineage": {
+    "present": [
+      "Nick Drake",
+      "Bert Jansch",
+      "John Martyn",
+      "Tim Buckley"
+    ],
+    "missing": [],
+    "neighbor_ranks": {
+      "Nick Drake": {
+        "rank_of_others_in_top_20": {
+          "Bert Jansch": null,
+          "John Martyn": 17,
+          "Tim Buckley": 15
+        }
+      },
+      "Bert Jansch": {
+        "rank_of_others_in_top_20": {
+          "Nick Drake": null,
+          "John Martyn": 8,
+          "Tim Buckley": null
+        }
+      },
+      "John Martyn": {
+        "rank_of_others_in_top_20": {
+          "Nick Drake": null,
+          "Bert Jansch": 1,
+          "Tim Buckley": null
+        }
+      },
+      "Tim Buckley": {
+        "rank_of_others_in_top_20": {
+          "Nick Drake": null,
+          "Bert Jansch": null,
+          "John Martyn": null
+        }
+      }
+    },
+    "all_mutual_top_20": false
+  },
+  "check_4_personal_coherence": {
+    "library_artists_in_universe": 86,
+    "real_silhouette": 0.006530167069286108,
+    "random_baseline_mean": 9.079654428205686e-05,
+    "random_baseline_std": 0.002073135598771559,
+    "more_clustered_than_random": true
+  },
+  "check_5_isolated_nodes": {
+    "n_isolated": 1,
+    "isolated_sample": [
+      "Yusuf / Cat Stevens"
+    ]
+  }
+}

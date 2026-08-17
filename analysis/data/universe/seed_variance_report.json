@@ -1,0 +1,34 @@
+{
+  "seeds": [
+    42,
+    1,
+    7,
+    13
+  ],
+  "lineage_pair_consistency": {
+    "Nick Drake -> Bert Jansch": "4/4",
+    "Nick Drake -> John Martyn": "1/4",
+    "Nick Drake -> Tim Buckley": "4/4",
+    "Bert Jansch -> Nick Drake": "0/4",
+    "Bert Jansch -> John Martyn": "4/4",
+    "Bert Jansch -> Tim Buckley": "0/4",
+    "John Martyn -> Nick Drake": "0/4",
+    "John Martyn -> Bert Jansch": "4/4",
+    "John Martyn -> Tim Buckley": "1/4",
+    "Tim Buckley -> Nick Drake": "2/4",
+    "Tim Buckley -> Bert Jansch": "1/4",
+    "Tim Buckley -> John Martyn": "1/4"
+  },
+  "per_seed_silhouette": [
+    0.008201145566999912,
+    0.008145834319293499,
+    0.005652143619954586,
+    0.006683913990855217
+  ],
+  "per_seed_baseline": [
+    0.0005470535717904568,
+    0.00031109977717278523,
+    -0.0005649836894917826,
+    -0.00010250627601635643
+  ]
+}

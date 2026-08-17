@@ -29,4 +29,5 @@ That response led in three directions:
 - [[Meta-Genre Map]] — Wikidata-derived genre hierarchy, weighted by play time
 - [[Discovery Frontier]] — computed adjacent-unheard recommendations
 - [[Influence Lineage]] — curated + LLM-generated influence edges
+- [[Taste Atlas]] — population-scale Last.fm similarity map, your listening overlaid
 - `Taste Analysis/` folder — dated snapshots over time
