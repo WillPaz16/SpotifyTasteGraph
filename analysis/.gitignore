@@ -1,0 +1,5 @@
+.venv/
+.env
+.spotify_token_cache
+output/
+StreamingHistory_music_*.json

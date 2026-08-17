@@ -1,0 +1,562 @@
+[
+ {
+  "from": "Sam Cooke",
+  "to": "Al Green",
+  "type": "influenced",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "Al Green's entire vocal approach draws from Cooke"
+ },
+ {
+  "from": "Al Green",
+  "to": "Ms. Lauryn Hill",
+  "type": "influenced",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Roberta Flack",
+  "to": "Ms. Lauryn Hill",
+  "type": "influenced",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "Fugees covered Killing Me Softly; direct lineage"
+ },
+ {
+  "from": "Ms. Lauryn Hill",
+  "to": "SZA",
+  "type": "influenced",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Ms. Lauryn Hill",
+  "to": "D'Angelo",
+  "type": "collaborated_with",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "Nothing Even Matters"
+ },
+ {
+  "from": "D'Angelo",
+  "to": "Bruno Mars",
+  "type": "influenced",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "Via producer D'Mile"
+ },
+ {
+  "from": "Bert Jansch",
+  "to": "Nick Drake",
+  "type": "influenced",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Bert Jansch",
+  "to": "John Martyn",
+  "type": "influenced",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Nick Drake",
+  "to": "Mazzy Star",
+  "type": "sounds_like",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "Same hazy intimate frequency"
+ },
+ {
+  "from": "John Martyn",
+  "to": "Nick Drake",
+  "type": "collaborated_with",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "Solid Air written for Drake"
+ },
+ {
+  "from": "Van Morrison",
+  "to": "John Martyn",
+  "type": "influenced",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Tim Buckley",
+  "to": "Jeff Buckley",
+  "type": "influenced",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "Father and son \u2014 barely knew each other"
+ },
+ {
+  "from": "Tim Buckley",
+  "to": "Jeff Buckley",
+  "type": "family_connection",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Van Morrison",
+  "to": "Jeff Buckley",
+  "type": "influenced",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Paco de Luc\u00eda",
+  "to": "Camar\u00f3n de la Isla",
+  "type": "collaborated_with",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "Most important collaboration in flamenco history"
+ },
+ {
+  "from": "Paco de Luc\u00eda",
+  "to": "Rodrigo y Gabriela",
+  "type": "influenced",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Paco de Luc\u00eda",
+  "to": "Nuevo Flamenco",
+  "type": "part_of",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "Invented the genre"
+ },
+ {
+  "from": "Carlos Santana",
+  "to": "Ms. Lauryn Hill",
+  "type": "collaborated_with",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "To Zion \u2014 nylon-string guitar"
+ },
+ {
+  "from": "Carlos Santana",
+  "to": "Nylon-String Guitar Warmth",
+  "type": "bridges_to",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "His tone on To Zion is the seed concept"
+ },
+ {
+  "from": "Jos\u00e9 Feliciano",
+  "to": "Nylon-String Guitar Warmth",
+  "type": "part_of",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Ms. Lauryn Hill",
+  "to": "British Folk",
+  "type": "discovery_path",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "To Zion guitar warmth \u2192 Jos\u00e9 Feliciano \u2192 Nick Drake \u2192 British folk"
+ },
+ {
+  "from": "Ms. Lauryn Hill",
+  "to": "Flamenco",
+  "type": "discovery_path",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": "To Zion guitar warmth \u2192 Santana \u2192 nylon-string \u2192 Paco de Luc\u00eda"
+ },
+ {
+  "from": "Rodrigo y Gabriela",
+  "to": "Flamenco",
+  "type": "bridges_to",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "ROSAL\u00cdA",
+  "to": "Flamenco",
+  "type": "part_of",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Am\u00e1lia Rodrigues",
+  "to": "Fado",
+  "type": "part_of",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Jo\u00e3o Gilberto",
+  "to": "Bossa Nova",
+  "type": "part_of",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Caetano Veloso",
+  "to": "Jo\u00e3o Gilberto",
+  "type": "influenced",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Mazzy Star",
+  "to": "Nick Drake",
+  "type": "sounds_like",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Van Morrison",
+  "to": "Celtic Soul / Irish Folk-Soul",
+  "type": "part_of",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "John Martyn",
+  "to": "Celtic Soul / Irish Folk-Soul",
+  "type": "part_of",
+  "source": "curated",
+  "confidence": "confirmed",
+  "note": ""
+ },
+ {
+  "from": "Sam Cooke",
+  "to": "Amy Winehouse",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Amy Winehouse's soul revivalism draws on the classic 60s soul lineage Cooke helped define."
+ },
+ {
+  "from": "Amy Winehouse",
+  "to": "Adele",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Widely credited as the artist who reopened the door for British soul-pop singers like Adele."
+ },
+ {
+  "from": "Fleetwood Mac",
+  "to": "Wild Rivers",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Shared harmony-driven, warm soft-rock/folk-pop sensibility."
+ },
+ {
+  "from": "Drugdealer",
+  "to": "Fleetwood Mac",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Michael Collins' Drugdealer project is an explicit soft-rock/yacht-rock revival act."
+ },
+ {
+  "from": "The Smiths",
+  "to": "Radiohead",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Well-documented lineage from 80s British indie/alternative into Radiohead's early sound."
+ },
+ {
+  "from": "The White Stripes",
+  "to": "The Sways",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Garage-rock revival lineage."
+ },
+ {
+  "from": "The White Stripes",
+  "to": "Foxy Shazam",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Shared glam/garage-rock theatricality."
+ },
+ {
+  "from": "Radiohead",
+  "to": "Sam Fender",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "British alt-rock atmospherics; Fender's sound sits in this lineage alongside more direct Springsteen influence."
+ },
+ {
+  "from": "Van Morrison",
+  "to": "Paolo Nutini",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Nutini has cited Van Morrison directly; shared Scottish/Celtic soul-rock phrasing."
+ },
+ {
+  "from": "Paolo Nutini",
+  "to": "Sam Fender",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Both British Isles soulful rock singer-songwriters."
+ },
+ {
+  "from": "Nick Drake",
+  "to": "Noah Kahan",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Kahan's intimate folk-revival songwriting sits in the lineage Drake helped define, filtered through 2010s indie folk."
+ },
+ {
+  "from": "Wild Rivers",
+  "to": "Noah Kahan",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Contemporary folk-pop peers, frequently compared."
+ },
+ {
+  "from": "Zach Bryan",
+  "to": "Tyler Childers",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Bryan has directly cited Childers as part of the New Americana movement he emerged from."
+ },
+ {
+  "from": "Chris Stapleton",
+  "to": "Zach Bryan",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Both anchor the modern outlaw-country/Americana revival."
+ },
+ {
+  "from": "Chris Stapleton",
+  "to": "The Red Clay Strays",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Frequently compared for Southern rock/soul-inflected country revival."
+ },
+ {
+  "from": "Jon Pardi",
+  "to": "Cody Johnson",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Both neotraditional country mainstays."
+ },
+ {
+  "from": "Brooks & Dunn",
+  "to": "Jason Aldean",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Aldean has cited Brooks & Dunn as a formative influence on his country-rock sound."
+ },
+ {
+  "from": "Jason Aldean",
+  "to": "Cody Johnson",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Shared mainstream country-rock lane."
+ },
+ {
+  "from": "Tanya Tucker",
+  "to": "Megan Moroney",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Legacy female-country lineage into the current generation."
+ },
+ {
+  "from": "Megan Moroney",
+  "to": "Ella Langley",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Contemporaries in the current wave of female country artists."
+ },
+ {
+  "from": "Ms. Lauryn Hill",
+  "to": "Drake",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Drake's 'Nice For What' samples Hill's 'Ex-Factor' directly."
+ },
+ {
+  "from": "Lil Wayne",
+  "to": "Drake",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Drake was signed to and mentored by Wayne's Young Money label early in his career."
+ },
+ {
+  "from": "Lil Wayne",
+  "to": "Lil Uzi Vert",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Widely cited lineage in melodic/mixtape-era hip-hop."
+ },
+ {
+  "from": "PARTYNEXTDOOR",
+  "to": "Drake",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "PARTYNEXTDOOR co-shaped Drake's moody OVO R&B sound as an early labelmate and collaborator."
+ },
+ {
+  "from": "Gunna",
+  "to": "Lil Uzi Vert",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Melodic trap peers from the same Atlanta/mixtape-era lineage."
+ },
+ {
+  "from": "2 Chainz",
+  "to": "Gunna",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Earlier Atlanta trap generation feeding into the melodic-trap style Gunna represents."
+ },
+ {
+  "from": "Big Sean",
+  "to": "J. Cole",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Contemporaries in mainstream conscious-adjacent hip-hop."
+ },
+ {
+  "from": "Kanye West",
+  "to": "J. Cole",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Cole has directly cited Kanye's 'The College Dropout' as pivotal to his own artistic direction."
+ },
+ {
+  "from": "Drake",
+  "to": "Sampha",
+  "type": "collaborated_with",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Sampha featured on Drake's 'Too Much' (Nothing Was the Same)."
+ },
+ {
+  "from": "Drake",
+  "to": "Yebba",
+  "type": "collaborated_with",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Yebba features directly on 'DIE TRYING' alongside Drake and PARTYNEXTDOOR."
+ },
+ {
+  "from": "Sabrina Carpenter",
+  "to": "Chappell Roan",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Constantly compared as the two breakout pop stars of the same 2024 moment."
+ },
+ {
+  "from": "Sabrina Carpenter",
+  "to": "Demi Lovato",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Shared Disney-to-pop-star career arc."
+ },
+ {
+  "from": "ROSAL\u00cdA",
+  "to": "Bad Bunny",
+  "type": "collaborated_with",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Collaborated on 'La Noche de Anoche'; a direct bridge between flamenco-pop and reggaeton."
+ },
+ {
+  "from": "Bad Bunny",
+  "to": "KAROL G",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Both define contemporary global Latin urbano."
+ },
+ {
+  "from": "Rodrigo y Gabriela",
+  "to": "Fuerza Regida",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "high",
+  "note": "The connection you already drew yourself \u2014 Fuerza Regida's mariachi-guitar 'Marlboro Rojo' echoes the flamenco-metal energy of 'Diablo Rojo.'"
+ },
+ {
+  "from": "Al Green",
+  "to": "Aaron Frazer",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Frazer's falsetto soul-revival style draws directly on classic 70s soul singers like Green."
+ },
+ {
+  "from": "Al Green",
+  "to": "Durand Jones & The Indications",
+  "type": "influenced",
+  "source": "llm",
+  "confidence": "high",
+  "note": "A modern retro-soul revival band explicitly rooted in this classic soul lineage."
+ },
+ {
+  "from": "Leon Bridges",
+  "to": "St. Paul & The Broken Bones",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Both lead the modern Southern soul-revival wave."
+ },
+ {
+  "from": "Kate Bollinger",
+  "to": "Wild Rivers",
+  "type": "sounds_like",
+  "source": "llm",
+  "confidence": "medium",
+  "note": "Shared dreamy, understated indie-folk-pop sensibility."
+ },
+ {
+  "from": "Ben Platt",
+  "to": "Original Broadway Cast of Dear Evan Hansen",
+  "type": "part_of",
+  "source": "llm",
+  "confidence": "high",
+  "note": "Platt originated the lead role and is the cast recording's central voice."
+ }
+]

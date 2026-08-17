@@ -1,0 +1,470 @@
+{
+ "American hip-hop": [
+  "hip-hop",
+  "music of the United States"
+ ],
+ "Atlanta hip-hop": [],
+ "British folk music": [
+  "music of the United Kingdom",
+  "Celtic folk music"
+ ],
+ "British folk rock": [
+  "folk rock",
+  "music of the United Kingdom"
+ ],
+ "Britpop": [
+  "alternative rock",
+  "pop rock"
+ ],
+ "Celtic music": [
+  "music of Europe"
+ ],
+ "Christian music": [
+  "religious music"
+ ],
+ "East Coast hip-hop": [
+  "American hip-hop"
+ ],
+ "Latin R&B": [
+  "contemporary R&B",
+  "Latin music"
+ ],
+ "Latin alternative": [
+  "alternative music",
+  "Latin music"
+ ],
+ "Latin music": [],
+ "Latin pop": [
+  "pop music",
+  "Latin music"
+ ],
+ "Latin rock": [
+  "rock music",
+  "Latin music"
+ ],
+ "Latin trap": [
+  "trap music",
+  "Latin hip-hop"
+ ],
+ "Michigan rap": [
+  "American hip-hop",
+  "music of Michigan"
+ ],
+ "Midwest hip-hop": [
+  "American hip-hop"
+ ],
+ "SoundCloud rap": [
+  "hip-hop"
+ ],
+ "Southern hip-hop": [
+  "American hip-hop"
+ ],
+ "Southern rock": [
+  "rock music"
+ ],
+ "Spanish art": [],
+ "adult contemporary music": [
+  "pop music"
+ ],
+ "alternative R&B": [
+  "contemporary R&B"
+ ],
+ "alternative country": [
+  "country music",
+  "alternative music"
+ ],
+ "alternative metal": [
+  "alternative music",
+  "metal music"
+ ],
+ "alternative music": [
+  "popular music"
+ ],
+ "alternative rock": [
+  "rock music",
+  "alternative music"
+ ],
+ "art music": [
+  "music"
+ ],
+ "art pop": [
+  "pop music"
+ ],
+ "art rock": [
+  "rock music"
+ ],
+ "avant-garde": [
+  "rock music",
+  "experimental music"
+ ],
+ "banda music": [
+  "regional Mexican",
+  "brass band music"
+ ],
+ "baroque pop": [
+  "pop music"
+ ],
+ "blue-eyed soul": [
+  "pop music",
+  "soul"
+ ],
+ "bluegrass music": [
+  "country music",
+  "traditional country music"
+ ],
+ "blues": [],
+ "blues rock": [
+  "blues",
+  "rock music"
+ ],
+ "bolero": [
+  "music of Spain",
+  "Spanish dance"
+ ],
+ "bossa nova": [
+  "popular music",
+  "music of Brazil"
+ ],
+ "bounce music": [
+  "Southern hip-hop",
+  "US bass music"
+ ],
+ "chamber pop": [
+  "indie pop"
+ ],
+ "chipmunk soul": [],
+ "classical music": [
+  "art music"
+ ],
+ "cloud rap": [
+  "hip-hop"
+ ],
+ "conscious hip-hop": [
+  "rapping",
+  "hip-hop",
+  "political hip-hop"
+ ],
+ "contemporary R&B": [
+  "pop music",
+  "rhythm and blues"
+ ],
+ "contemporary folk music": [
+  "folk music",
+  "popular music"
+ ],
+ "corrido": [
+  "traditional folk song",
+  "Mexican folk music",
+  "ballad"
+ ],
+ "corridos tumbados": [],
+ "country music": [
+  "popular music",
+  "music of North America"
+ ],
+ "country pop": [
+  "pop music",
+  "country music"
+ ],
+ "country soul": [
+  "soul"
+ ],
+ "dance-pop": [
+  "pop music",
+  "club/dance music"
+ ],
+ "dancehall": [
+  "reggae",
+  "music of Jamaica"
+ ],
+ "dirty south": [
+  "American hip-hop"
+ ],
+ "dream pop": [
+  "indie rock"
+ ],
+ "electro": [
+  "electronic dance music"
+ ],
+ "electronic dance music": [
+  "electronic music",
+  "club/dance music"
+ ],
+ "electronic music": [
+  "music"
+ ],
+ "electronic pop": [
+  "electronic music",
+  "pop music"
+ ],
+ "electronic rock": [
+  "electronic music",
+  "rock music"
+ ],
+ "electropop": [
+  "electronic pop"
+ ],
+ "emo rap": [
+  "hip-hop"
+ ],
+ "experimental rock": [
+  "rock music",
+  "experimental music"
+ ],
+ "flamenco": [
+  "folk dance",
+  "music of Spain",
+  "Latin music"
+ ],
+ "folk dance": [],
+ "folk music": [],
+ "folk rock": [
+  "rock music"
+ ],
+ "folk-pop": [
+  "pop music",
+  "contemporary folk music"
+ ],
+ "functional music": [
+  "music"
+ ],
+ "funk": [
+  "popular music"
+ ],
+ "gangsta rap": [
+  "hardcore hip-hop"
+ ],
+ "garage rock": [
+  "rock music"
+ ],
+ "glam rock": [
+  "rock music",
+  "glam music"
+ ],
+ "gospel music": [
+  "Christian music"
+ ],
+ "hard rock": [
+  "rock music"
+ ],
+ "hardcore hip-hop": [
+  "hip-hop"
+ ],
+ "hip-hop": [],
+ "hip-hop soul": [
+  "contemporary R&B"
+ ],
+ "house music": [
+  "electronic dance music"
+ ],
+ "independent music": [
+  "music"
+ ],
+ "indie folk": [
+  "independent music",
+  "contemporary folk music"
+ ],
+ "indie pop": [
+  "pop music",
+  "independent music"
+ ],
+ "indie rock": [
+  "alternative rock",
+  "independent music"
+ ],
+ "instrumental rock": [
+  "rock music",
+  "instrumental music"
+ ],
+ "jangle pop": [
+  "alternative rock",
+  "pop rock"
+ ],
+ "jazz": [
+  "popular music"
+ ],
+ "jazz fusion": [
+  "jazz"
+ ],
+ "music of Brazil": [
+  "music of Latin America",
+  "Brazilian art",
+  "music of South America"
+ ],
+ "music of Europe": [
+  "regional music",
+  "\u0430rt of Europe"
+ ],
+ "music of Jamaica": [
+  "music of the Greater Antilles"
+ ],
+ "music of Latin America": [
+  "music of the Americas",
+  "Latin music"
+ ],
+ "music of Mexico": [
+  "music of Latin America"
+ ],
+ "music of North America": [
+  "music of the Americas"
+ ],
+ "music of Spain": [
+  "Spanish art",
+  "Latin music",
+  "music of the Iberian Peninsula"
+ ],
+ "music of Western Europe": [
+  "music of Europe"
+ ],
+ "music of the Americas": [
+  "regional music"
+ ],
+ "music of the British Isles": [
+  "music of Western Europe",
+  "music of Northern Europe"
+ ],
+ "music of the Greater Antilles": [],
+ "music of the United Kingdom": [
+  "music of the British Isles"
+ ],
+ "m\u00fasica popular brasileira": [
+  "music of Brazil"
+ ],
+ "neo soul": [
+  "soul"
+ ],
+ "neo-prog": [
+  "progressive rock"
+ ],
+ "neotraditional country": [],
+ "new flamenco": [
+  "flamenco"
+ ],
+ "new jack swing": [],
+ "new wave": [],
+ "norte\u00f1o": [
+  "popular music",
+  "regional Mexican"
+ ],
+ "nu metal": [
+  "alternative metal"
+ ],
+ "pop music": [
+  "popular music"
+ ],
+ "pop rap": [
+  "hip-hop"
+ ],
+ "pop rock": [
+  "rock music",
+  "pop music"
+ ],
+ "pop soul": [
+  "pop music",
+  "soul"
+ ],
+ "pop-punk": [
+  "punk rock",
+  "pop music"
+ ],
+ "post-punk": [
+  "punk music"
+ ],
+ "post-punk revival": [
+  "indie rock",
+  "post-punk"
+ ],
+ "power pop": [
+  "pop rock"
+ ],
+ "progressive rap": [
+  "hip-hop",
+  "progressive music"
+ ],
+ "progressive rock": [
+  "rock music",
+  "progressive music"
+ ],
+ "psychedelic hip-hop": [
+  "hip-hop"
+ ],
+ "psychedelic rap": [
+  "hip-hop",
+  "psychedelic music"
+ ],
+ "punk blues": [
+  "punk music"
+ ],
+ "punk music": [
+  "rock music"
+ ],
+ "punk rap": [
+  "punk rock",
+  "hip-hop"
+ ],
+ "punk rock": [
+  "punk music"
+ ],
+ "rage": [],
+ "rapping": [
+  "hip-hop",
+  "musical performance"
+ ],
+ "red dirt": [
+  "Southern rock",
+  "outlaw country"
+ ],
+ "reggae": [
+  "music of Jamaica"
+ ],
+ "reggaeton": [
+  "popular music"
+ ],
+ "regional Mexican": [
+  "music of Mexico"
+ ],
+ "regional music": [
+  "popular music",
+  "music"
+ ],
+ "religious music": [
+  "functional music"
+ ],
+ "rhythm and blues": [
+  "popular music"
+ ],
+ "rock music": [
+  "popular music"
+ ],
+ "roots rock": [
+  "rock music",
+  "music of the United States"
+ ],
+ "rumba flamenca": [
+  "flamenco",
+  "Cantes de ida y vuelta"
+ ],
+ "sierre\u00f1a": [
+  "norte\u00f1o"
+ ],
+ "soft rock": [
+  "pop rock"
+ ],
+ "soul": [
+  "rhythm and blues"
+ ],
+ "synth-pop": [
+  "electronic pop"
+ ],
+ "teen pop": [
+  "pop music"
+ ],
+ "traditional folk music": [
+  "folk music"
+ ],
+ "traditional folk song": [],
+ "trap music": [],
+ "urbano music": [
+  "Latin music"
+ ]
+}

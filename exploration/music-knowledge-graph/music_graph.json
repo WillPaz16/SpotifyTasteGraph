@@ -1,0 +1,612 @@
+{
+  "metadata": {
+    "created": "2026-08-13",
+    "description": "Will's music exploration knowledge graph — lineage, influence, and personal response",
+    "version": "1.0"
+  },
+  "nodes": {
+    "artists": [
+      {
+        "id": "sam_cooke",
+        "name": "Sam Cooke",
+        "spotify_uri": "spotify:artist:6hnWmBpPTZa5lPanxoC1KR",
+        "genres": ["soul", "gospel", "r&b"],
+        "era": "1950s-1960s",
+        "nationality": "american",
+        "active": "1951-1964",
+        "key_tracks": ["(What A) Wonderful World", "A Change Is Gonna Come"],
+        "will_response": "anchor",
+        "playlists": ["ex-factor at 2am"]
+      },
+      {
+        "id": "al_green",
+        "name": "Al Green",
+        "spotify_uri": "spotify:artist:3dkbV4qihUeMsqN4vBGg93",
+        "genres": ["soul", "southern soul", "gospel"],
+        "era": "1970s",
+        "nationality": "american",
+        "active": "1969-present",
+        "key_tracks": ["Tired of Being Alone", "Let's Stay Together"],
+        "will_response": "liked",
+        "playlists": ["ex-factor at 2am"]
+      },
+      {
+        "id": "lauryn_hill",
+        "name": "Ms. Lauryn Hill",
+        "spotify_uri": "spotify:artist:2Mu5NfyYm8n5iTomuKAEHl",
+        "genres": ["neo-soul", "hip-hop soul", "r&b"],
+        "era": "1990s-2000s",
+        "nationality": "american",
+        "active": "1993-present",
+        "key_tracks": ["To Zion", "Ex-Factor", "Killing Me Softly"],
+        "key_albums": ["The Miseducation of Lauryn Hill"],
+        "will_response": "seed_artist",
+        "playlists": ["ex-factor at 2am", "guitar warm enough to sleep in"]
+      },
+      {
+        "id": "dangelo",
+        "name": "D'Angelo",
+        "spotify_uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi",
+        "genres": ["neo-soul", "r&b", "funk"],
+        "era": "1990s-2000s",
+        "nationality": "american",
+        "key_tracks": ["Brown Sugar", "Untitled (How Does It Feel)"],
+        "will_response": "liked",
+        "playlists": ["ex-factor at 2am", "guitar warm enough to sleep in"]
+      },
+      {
+        "id": "erykah_badu",
+        "name": "Erykah Badu",
+        "spotify_uri": "spotify:artist:6l3HvQ5sa6mXTsMTB6eKI2",
+        "genres": ["neo-soul", "r&b"],
+        "era": "1990s-present",
+        "nationality": "american",
+        "key_tracks": ["On & On"],
+        "will_response": "liked",
+        "playlists": ["guitar warm enough to sleep in"]
+      },
+      {
+        "id": "sza",
+        "name": "SZA",
+        "spotify_uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+        "genres": ["r&b", "neo-soul", "pop"],
+        "era": "2010s-present",
+        "nationality": "american",
+        "key_tracks": ["Good Days", "Snooze"],
+        "will_response": "liked",
+        "playlists": ["ex-factor at 2am"]
+      },
+      {
+        "id": "olivia_dean",
+        "name": "Olivia Dean",
+        "spotify_uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW",
+        "genres": ["neo-soul", "pop", "easy listening"],
+        "era": "2020s",
+        "nationality": "british",
+        "key_tracks": ["A Couple Minutes", "Let Alone The One You Love"],
+        "will_response": "currently_listening",
+        "playlists": ["ex-factor at 2am", "Warmth & Restraint"]
+      },
+      {
+        "id": "bruno_mars",
+        "name": "Bruno Mars",
+        "spotify_uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C",
+        "genres": ["pop", "r&b", "soul"],
+        "era": "2010s-present",
+        "nationality": "american",
+        "key_tracks": ["Risk It All", "Dance With Me"],
+        "will_response": "currently_listening",
+        "playlists": ["ex-factor at 2am"]
+      },
+      {
+        "id": "roberta_flack",
+        "name": "Roberta Flack",
+        "spotify_uri": "spotify:artist:3PMjsMXMpBWNjgACVMbNbz",
+        "genres": ["soul", "jazz-soul"],
+        "era": "1970s",
+        "nationality": "american",
+        "key_tracks": ["Killing Me Softly With His Song"],
+        "will_response": "liked",
+        "playlists": ["guitar warm enough to sleep in"]
+      },
+      {
+        "id": "nina_simone",
+        "name": "Nina Simone",
+        "spotify_uri": "spotify:artist:7G1GBhoKtEPnP86X2PvEYO",
+        "genres": ["jazz", "soul", "blues"],
+        "era": "1960s-1970s",
+        "nationality": "american",
+        "key_tracks": ["Feeling Good", "I Put A Spell On You"],
+        "will_response": "liked",
+        "playlists": ["guitar warm enough to sleep in"]
+      },
+      {
+        "id": "bill_withers",
+        "name": "Bill Withers",
+        "spotify_uri": "spotify:artist:1ThoqLcyIYvZn7iWbj8fsj",
+        "genres": ["soul", "r&b"],
+        "era": "1970s",
+        "nationality": "american",
+        "key_tracks": ["Ain't No Sunshine", "Lean on Me"],
+        "will_response": "liked",
+        "playlists": ["guitar warm enough to sleep in"]
+      },
+      {
+        "id": "leon_bridges",
+        "name": "Leon Bridges",
+        "spotify_uri": "spotify:artist:3qnGvpP8Yth1AqSBMqON5x",
+        "genres": ["soul revival", "r&b", "gospel"],
+        "era": "2010s-present",
+        "nationality": "american",
+        "key_tracks": ["River", "Coming Home", "Ain't Got Nothing On You"],
+        "will_response": "liked",
+        "playlists": ["city pop for a walk you didn't plan", "guitar warm enough to sleep in"]
+      },
+      {
+        "id": "cleo_sol",
+        "name": "Cleo Sol",
+        "spotify_uri": "spotify:artist:0P9HlktnLlKW21NSyXHJEB",
+        "genres": ["neo-soul", "r&b"],
+        "era": "2020s",
+        "nationality": "british",
+        "key_tracks": ["Golden Child (Jealous)", "Know That You Are Loved"],
+        "will_response": "liked",
+        "playlists": ["ex-factor at 2am", "city pop for a walk you didn't plan"]
+      },
+      {
+        "id": "bert_jansch",
+        "name": "Bert Jansch",
+        "spotify_uri": "spotify:artist:1rdoKpMnPv3L8bJH6PkpSl",
+        "genres": ["british folk", "fingerpicked acoustic"],
+        "era": "1960s-1970s",
+        "nationality": "scottish",
+        "active": "1963-2011",
+        "key_tracks": ["Needle of Death", "Running From Home"],
+        "key_albums": ["Bert Jansch (1965)"],
+        "will_response": "liked",
+        "playlists": ["nylon string feelings you can't name", "late night somewhere between folk and soul"],
+        "influenced": ["jimmy_page", "paul_simon", "nick_drake"],
+        "story": "Recorded debut in one session for £60. Changed British music."
+      },
+      {
+        "id": "nick_drake",
+        "name": "Nick Drake",
+        "spotify_uri": "spotify:artist:4oEs2CVlQGKJ1mFHkdXBb6",
+        "genres": ["british folk", "chamber folk"],
+        "era": "1960s-1970s",
+        "nationality": "english",
+        "active": "1969-1974",
+        "key_tracks": ["Poor Boy", "Northern Sky", "One Of These Things First", "Pink Moon"],
+        "key_albums": ["Bryter Layter (recommended entry point)", "Pink Moon (austere)", "Five Leaves Left"],
+        "will_response": "liked — Poor Boy and One Of These Things First specifically",
+        "next_step": "Bryter Layter full album listen — confirmed best entry point",
+        "playlists": ["nylon string feelings you can't name", "late night somewhere between folk and soul"],
+        "story": "Three albums, near-zero commercial success. Died at 26. Rediscovered 1980s. Volkswagen ad 1999 introduced to new generation."
+      },
+      {
+        "id": "john_martyn",
+        "name": "John Martyn",
+        "spotify_uri": "spotify:artist:4bFIk0Xj7HYzyv9HdLrZk2",
+        "genres": ["folk-soul", "jazz-folk", "proto-ambient"],
+        "era": "1970s-1980s",
+        "nationality": "scottish",
+        "active": "1967-2009",
+        "key_tracks": ["Solid Air", "May You Never", "Couldn't Love You More"],
+        "key_albums": ["Solid Air"],
+        "will_response": "highlight — May You Never and Couldn't Love You More",
+        "playlists": ["nylon string feelings you can't name", "late night somewhere between folk and soul"],
+        "story": "Solid Air written for Nick Drake. Uses Echoplex tape delay to make guitar sound liquid."
+      },
+      {
+        "id": "van_morrison",
+        "name": "Van Morrison",
+        "spotify_uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et",
+        "genres": ["celtic soul", "irish folk", "jazz-rock", "mystical folk"],
+        "era": "1960s-present",
+        "nationality": "irish",
+        "key_tracks": ["Astral Weeks", "Into The Mystic", "Sweet Thing"],
+        "key_albums": ["Astral Weeks (1968 — essential)", "Moondance (1970 — accessible)", "Veedon Fleece (1974 — Celtic mysticism)"],
+        "will_response": "highlight — deepest rabbit hole recommended",
+        "playlists": ["late night somewhere between folk and soul"],
+        "story": "Astral Weeks recorded in two sessions, 1968, aged 23, broke, with jazz musicians who hadn't heard the songs. Sold nothing. Now on every greatest albums list."
+      },
+      {
+        "id": "sandy_denny",
+        "name": "Sandy Denny",
+        "spotify_uri": "spotify:artist:5tdNAFpRtMH2TGqKaMp1sl",
+        "genres": ["british folk", "folk-rock"],
+        "era": "1960s-1970s",
+        "nationality": "english",
+        "active": "1967-1978",
+        "key_tracks": ["Who Knows Where The Time Goes"],
+        "will_response": "appreciated — atmospheric",
+        "playlists": ["late night somewhere between folk and soul"],
+        "story": "Only guest vocalist on a Led Zeppelin record (Battle of Evermore). Died at 31."
+      },
+      {
+        "id": "richard_thompson",
+        "name": "Richard Thompson",
+        "spotify_uri": "spotify:artist:1NvKBTBpFpgRVqkV5p7bYH",
+        "genres": ["british folk-rock", "folk"],
+        "era": "1970s-present",
+        "nationality": "english",
+        "key_tracks": ["1952 Vincent Black Lightning"],
+        "will_response": "surprised and engaged — narrative energy",
+        "playlists": ["late night somewhere between folk and soul"]
+      },
+      {
+        "id": "tim_buckley",
+        "name": "Tim Buckley",
+        "spotify_uri": "spotify:artist:0beWnPfFBCKaGK66ok3Nba",
+        "genres": ["folk-soul", "avant-garde vocal"],
+        "era": "1960s-1970s",
+        "nationality": "american",
+        "active": "1966-1975",
+        "key_tracks": ["Song To The Siren"],
+        "key_albums": ["Starsailor (experimental)"],
+        "will_response": "highlight — haunting, otherworldly",
+        "playlists": ["late night somewhere between folk and soul"],
+        "story": "Jeff Buckley's father. Barely knew each other. Died of heroin OD aged 28 when Jeff was 8.",
+        "family_connection": "jeff_buckley"
+      },
+      {
+        "id": "jeff_buckley",
+        "name": "Jeff Buckley",
+        "spotify_uri": "spotify:artist:3nnQpaTvKb5jCQabZefACI",
+        "genres": ["folk-soul", "art rock", "chamber pop"],
+        "era": "1990s",
+        "nationality": "american",
+        "active": "1991-1997",
+        "key_tracks": ["Lover You Should've Come Over", "Hallelujah", "Lilac Wine", "Dream Brother"],
+        "key_albums": ["Grace (1994 — essential, one studio album)"],
+        "will_response": "highlight — emotional peak of late night playlist",
+        "playlists": ["nylon string feelings you can't name", "guitar warm enough to sleep in", "late night somewhere between folk and soul"],
+        "story": "One studio album. Drowned in Mississippi River 1997, aged 30. Grace now recognized as one of greatest debut albums ever.",
+        "family_connection": "tim_buckley"
+      },
+      {
+        "id": "mazzy_star",
+        "name": "Mazzy Star",
+        "spotify_uri": "spotify:artist:37w38cCSGgKLdayTRjna4W",
+        "genres": ["dream pop", "dream folk", "shoegaze-adjacent"],
+        "era": "1990s",
+        "nationality": "american",
+        "key_tracks": ["Fade Into You", "Look On Down From The Bridge"],
+        "key_albums": ["So Tonight That I Might See", "Among My Swan (darker, better late night)"],
+        "will_response": "highlight — caught ear randomly, immediately resonated",
+        "playlists": ["late night somewhere between folk and soul"]
+      },
+      {
+        "id": "paco_de_lucia",
+        "name": "Paco de Lucía",
+        "spotify_uri": "spotify:artist:6Z8QWtpAzZBX3AC6SKMnAq",
+        "genres": ["flamenco", "nuevo flamenco", "jazz-flamenco"],
+        "era": "1960s-2010s",
+        "nationality": "spanish",
+        "active": "1964-2014",
+        "key_tracks": ["Entre Dos Aguas", "Almoraima", "Zyryab", "Mediterranean Sundance"],
+        "will_response": "loved — pure guitar opener",
+        "playlists": ["nylon string feelings you can't name", "duende between two waters"],
+        "story": "Architect of nuevo flamenco. Brought jazz and Brazilian music into flamenco. Friday Night in San Francisco (1980) with Di Meola and McLaughlin is one of the greatest live acoustic guitar recordings ever."
+      },
+      {
+        "id": "camaron",
+        "name": "Camarón de la Isla",
+        "spotify_uri": "spotify:artist:5L0R6EMBbGJBhROBGQ7rkA",
+        "genres": ["flamenco cante"],
+        "era": "1970s-1990s",
+        "nationality": "spanish",
+        "active": "1969-1992",
+        "key_tracks": ["Como El Agua", "Volando Voy", "La Leyenda del Tiempo"],
+        "will_response": "powerful — cantaor introduction",
+        "playlists": ["duende between two waters"],
+        "story": "Greatest cantaor of 20th century. La Leyenda del Tiempo (1979) added rock band, scandalized flamenco establishment, now a masterpiece."
+      },
+      {
+        "id": "rodrigo_gabriela",
+        "name": "Rodrigo y Gabriela",
+        "spotify_uri": "spotify:artist:6Ud4KMeKl68QQBpQoUQmS9",
+        "genres": ["flamenco-metal", "acoustic guitar"],
+        "era": "2000s-present",
+        "nationality": "mexican",
+        "key_tracks": ["Diablo Rojo"],
+        "will_response": "loved — energetic closer, controlled chaos",
+        "playlists": ["nylon string feelings you can't name", "duende between two waters"],
+        "will_connection": "Connected to Fuerza Regida Marlboro Rojo — mariachi guitar vibe"
+      },
+      {
+        "id": "rosalia",
+        "name": "ROSALÍA",
+        "spotify_uri": "spotify:artist:79tNnDpXkQBaYYGMAydAp7",
+        "genres": ["flamenco-pop", "experimental"],
+        "era": "2010s-present",
+        "nationality": "spanish",
+        "key_tracks": ["MALAMENTE"],
+        "key_albums": ["El Mal Querer (flamenco concept album, Grammy winner)"],
+        "will_response": "single-listen — too fusion/experimental for repeat",
+        "playlists": ["nylon string feelings you can't name", "duende between two waters"]
+      },
+      {
+        "id": "amalia_rodrigues",
+        "name": "Amália Rodrigues",
+        "spotify_uri": "spotify:artist:4GKRMkIfMgXBSgEhP6ScFn",
+        "genres": ["fado"],
+        "era": "1940s-1990s",
+        "nationality": "portuguese",
+        "key_tracks": ["Estranha Forma de Vida"],
+        "will_response": "loved — back-to-back with Paco was emotional one-two punch",
+        "playlists": ["nylon string feelings you can't name"],
+        "story": "Queen of fado. Portugal declared three days national mourning when she died."
+      },
+      {
+        "id": "caetano_veloso",
+        "name": "Caetano Veloso",
+        "spotify_uri": "spotify:artist:3YLMyd0aKLkMKiMfMiYWVm",
+        "genres": ["tropicalia", "mpb"],
+        "era": "1960s-present",
+        "nationality": "brazilian",
+        "key_tracks": ["Cucurrucucú Paloma"],
+        "will_response": "single-listen — powerful gut-punch but sits you down, not for repeat",
+        "playlists": ["nylon string feelings you can't name"],
+        "story": "Exiled from Brazil by military dictatorship 1969. Cucurrucucú Paloma from film Talk to Her (Almodóvar) — Mexican song sung in Spanish by a Brazilian."
+      },
+      {
+        "id": "natalia_lafourcade",
+        "name": "Natalia Lafourcade",
+        "spotify_uri": "spotify:artist:1Z8ODXyhEBi3WynYg5BecM",
+        "genres": ["mexican folk-pop", "mpb-influenced"],
+        "era": "2000s-present",
+        "nationality": "mexican",
+        "key_tracks": ["Hasta la Raíz", "Nunca Es Suficiente"],
+        "will_response": "liked Hasta la Raíz significantly more than Nunca Es Suficiente",
+        "playlists": ["nylon string feelings you can't name"]
+      },
+      {
+        "id": "joao_gilberto",
+        "name": "João Gilberto",
+        "spotify_uri": "spotify:artist:7oJgBDvVo0PQKQN8E9iJIV",
+        "genres": ["bossa nova"],
+        "era": "1950s-2000s",
+        "nationality": "brazilian",
+        "key_tracks": ["The Girl From Ipanema"],
+        "will_response": "liked — familiar anchor in nylon string playlist",
+        "playlists": ["nylon string feelings you can't name"]
+      },
+      {
+        "id": "jose_feliciano",
+        "name": "José Feliciano",
+        "spotify_uri": "spotify:artist:5CYEjFhF6NiEGCPMfPQIiA",
+        "genres": ["latin folk", "latin pop", "nylon-string guitar"],
+        "era": "1960s-present",
+        "nationality": "puerto_rican",
+        "key_tracks": ["Light My Fire", "Feliz Navidad"],
+        "will_response": "liked — the nylon-string warmth closest to Santana/To Zion feel",
+        "playlists": ["nylon string feelings you can't name", "guitar warm enough to sleep in"]
+      },
+      {
+        "id": "cat_stevens",
+        "name": "Yusuf / Cat Stevens",
+        "spotify_uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8",
+        "genres": ["folk-pop", "singer-songwriter"],
+        "era": "1970s",
+        "nationality": "british",
+        "key_tracks": ["Wild World", "Father And Son"],
+        "will_response": "liked — familiar landing pad, accessible",
+        "playlists": ["late night somewhere between folk and soul"]
+      },
+      {
+        "id": "carlos_santana",
+        "name": "Carlos Santana",
+        "spotify_uri": "spotify:artist:6GI52t8N5F02MxU0g5U69P",
+        "genres": ["latin rock", "blues rock"],
+        "era": "1960s-present",
+        "nationality": "mexican-american",
+        "key_tracks": ["To Zion (feat. on Lauryn Hill track)"],
+        "note": "Appears on To Zion — nylon-string guitar tone is the seed of entire exploration",
+        "will_connection": "His nylon-string guitar tone on To Zion is what started this whole exploration"
+      },
+      {
+        "id": "tracy_chapman",
+        "name": "Tracy Chapman",
+        "spotify_uri": "spotify:artist:7oPgCQqMMXEXrNau5vxYZP",
+        "genres": ["folk-soul", "singer-songwriter"],
+        "era": "1980s-present",
+        "nationality": "american",
+        "key_tracks": ["Fast Car", "Baby Can I Hold You"],
+        "will_response": "liked",
+        "playlists": ["guitar warm enough to sleep in"]
+      },
+      {
+        "id": "india_arie",
+        "name": "India.Arie",
+        "spotify_uri": "spotify:artist:6aaMZ3fcfLv4SCkRaqn2G6",
+        "genres": ["neo-soul", "acoustic soul"],
+        "era": "2000s-present",
+        "nationality": "american",
+        "key_tracks": ["Brown Skin", "Video"],
+        "will_response": "liked",
+        "playlists": ["guitar warm enough to sleep in"]
+      }
+    ],
+    "genres": [
+      {
+        "id": "neo_soul",
+        "name": "Neo-Soul",
+        "description": "1990s conscious return to acoustic Black music in the age of sampling. Real instruments, jazz harmony, confessional lyrics.",
+        "era": "1990s-present",
+        "key_artists": ["lauryn_hill", "dangelo", "erykah_badu", "maxwell"],
+        "will_response": "home base — already knew this world"
+      },
+      {
+        "id": "british_folk",
+        "name": "British Folk",
+        "description": "1960s-70s UK acoustic tradition. Less protest than American folk, more ache. Fingerpicked guitar, close-mic'd voice.",
+        "era": "1960s-1970s",
+        "key_artists": ["bert_jansch", "nick_drake", "sandy_denny", "richard_thompson"],
+        "will_response": "new discovery — the intimacy and guitar work drew him in"
+      },
+      {
+        "id": "celtic_soul",
+        "name": "Celtic Soul / Irish Folk-Soul",
+        "description": "Irish and Scottish folk meeting soul and jazz. Less protest, more mysticism. Van Morrison is the defining figure.",
+        "era": "1960s-present",
+        "key_artists": ["van_morrison", "john_martyn"],
+        "will_response": "highlight — confirmed on the right track with Irish/Scottish sound"
+      },
+      {
+        "id": "flamenco",
+        "name": "Flamenco",
+        "description": "Andalusian Roma tradition. Guitar, voice (cantaor), handclaps (palmas), footwork (zapateado). Emotional directness bordering on exorcism.",
+        "era": "historical-present",
+        "key_artists": ["paco_de_lucia", "camaron", "vicente_amigo", "tomatito"],
+        "will_response": "loved — pure forms especially. Flamenco is awesome."
+      },
+      {
+        "id": "nuevo_flamenco",
+        "name": "Nuevo Flamenco",
+        "description": "Paco de Lucía's invention — flamenco absorbing jazz, Brazilian, and rock elements without losing its soul.",
+        "era": "1970s-present",
+        "key_artists": ["paco_de_lucia", "rosalia", "rodrigo_gabriela"],
+        "will_response": "preferred direction for flamenco playlist"
+      },
+      {
+        "id": "fado",
+        "name": "Fado",
+        "description": "Portuguese tradition built around saudade — untranslatable longing. Portuguese 12-string guitar + voice.",
+        "era": "historical-present",
+        "nationality": "portuguese",
+        "key_artists": ["amalia_rodrigues"],
+        "will_response": "loved — emotional one-two with Paco de Lucía"
+      },
+      {
+        "id": "bossa_nova",
+        "name": "Bossa Nova",
+        "description": "Brazilian jazz-samba fusion. Whispered vocals, jazz harmony, nylon-string guitar. The quietest revolution in music history.",
+        "era": "1950s-1960s",
+        "nationality": "brazilian",
+        "key_artists": ["joao_gilberto"],
+        "will_response": "liked — Girl From Ipanema as familiar anchor"
+      },
+      {
+        "id": "dream_folk",
+        "name": "Dream Folk / Dream Pop",
+        "description": "American atmospheric folk. Hazy production, voice at a distance, warmth without focus. Mazzy Star as the defining contemporary act.",
+        "era": "1990s",
+        "key_artists": ["mazzy_star"],
+        "will_response": "immediate resonance — Look On Down From The Bridge caught his ear randomly"
+      }
+    ],
+    "concepts": [
+      {
+        "id": "nylon_string_warmth",
+        "name": "Nylon-String Guitar Warmth",
+        "description": "The sonic quality that started this entire exploration. Nylon strings produce softer, rounder, warmer tone than steel — more sustain, less attack. Used in classical, flamenco, bossa nova. Santana's tone on To Zion is the reference point.",
+        "will_connection": "seed concept from To Zion"
+      },
+      {
+        "id": "saudade",
+        "name": "Saudade",
+        "description": "Portuguese concept — untranslatable longing for something you can't name or get back. The emotional core of fado.",
+        "appears_in": ["fado", "british_folk", "dream_folk"]
+      },
+      {
+        "id": "duende",
+        "name": "Duende",
+        "description": "Flamenco concept — the dark, irrational force that makes great flamenco feel like something beyond technique. Cannot be manufactured.",
+        "appears_in": ["flamenco"]
+      },
+      {
+        "id": "controlled_chaos",
+        "name": "Controlled Comfortable Chaos",
+        "description": "Will's phrase for what he loves in To Zion and Diablo Rojo — music that has energy and complexity but feels emotionally coherent rather than overwhelming.",
+        "examples": ["To Zion", "Diablo Rojo", "Mediterranean Sundance"]
+      }
+    ]
+  },
+  "edges": [
+    { "from": "sam_cooke", "to": "al_green", "type": "influenced", "note": "Al Green's entire vocal approach draws from Cooke" },
+    { "from": "al_green", "to": "lauryn_hill", "type": "influenced" },
+    { "from": "roberta_flack", "to": "lauryn_hill", "type": "influenced", "note": "Fugees covered Killing Me Softly; direct lineage" },
+    { "from": "lauryn_hill", "to": "sza", "type": "influenced" },
+    { "from": "lauryn_hill", "to": "dangelo", "type": "collaborated_with", "note": "Nothing Even Matters" },
+    { "from": "dangelo", "to": "bruno_mars", "type": "influenced", "note": "Via producer D'Mile" },
+    { "from": "bert_jansch", "to": "nick_drake", "type": "influenced" },
+    { "from": "bert_jansch", "to": "john_martyn", "type": "influenced" },
+    { "from": "nick_drake", "to": "mazzy_star", "type": "sounds_like", "note": "Same hazy intimate frequency" },
+    { "from": "john_martyn", "to": "nick_drake", "type": "collaborated_with", "note": "Solid Air written for Drake" },
+    { "from": "van_morrison", "to": "john_martyn", "type": "influenced" },
+    { "from": "tim_buckley", "to": "jeff_buckley", "type": "influenced", "note": "Father and son — barely knew each other" },
+    { "from": "tim_buckley", "to": "jeff_buckley", "type": "family_connection" },
+    { "from": "van_morrison", "to": "jeff_buckley", "type": "influenced" },
+    { "from": "paco_de_lucia", "to": "camaron", "type": "collaborated_with", "note": "Most important collaboration in flamenco history" },
+    { "from": "paco_de_lucia", "to": "rodrigo_gabriela", "type": "influenced" },
+    { "from": "paco_de_lucia", "to": "nuevo_flamenco", "type": "part_of", "note": "Invented the genre" },
+    { "from": "carlos_santana", "to": "lauryn_hill", "type": "collaborated_with", "note": "To Zion — nylon-string guitar" },
+    { "from": "carlos_santana", "to": "nylon_string_warmth", "type": "bridges_to", "note": "His tone on To Zion is the seed concept" },
+    { "from": "jose_feliciano", "to": "nylon_string_warmth", "type": "part_of" },
+    { "from": "lauryn_hill", "to": "british_folk", "type": "discovery_path", "note": "To Zion guitar warmth → José Feliciano → Nick Drake → British folk" },
+    { "from": "lauryn_hill", "to": "flamenco", "type": "discovery_path", "note": "To Zion guitar warmth → Santana → nylon-string → Paco de Lucía" },
+    { "from": "rodrigo_gabriela", "to": "flamenco", "type": "bridges_to" },
+    { "from": "rosalia", "to": "flamenco", "type": "part_of" },
+    { "from": "amalia_rodrigues", "to": "fado", "type": "part_of" },
+    { "from": "joao_gilberto", "to": "bossa_nova", "type": "part_of" },
+    { "from": "caetano_veloso", "to": "joao_gilberto", "type": "influenced" },
+    { "from": "mazzy_star", "to": "nick_drake", "type": "sounds_like" },
+    { "from": "van_morrison", "to": "celtic_soul", "type": "part_of" },
+    { "from": "john_martyn", "to": "celtic_soul", "type": "part_of" }
+  ],
+  "playlists": [
+    {
+      "id": "ex_factor_at_2am",
+      "name": "ex-factor at 2am",
+      "spotify_uri": "spotify:playlist:3wXFS3h5i1qMZ9L1f7Ipm4",
+      "theme": "Neo-soul lineage Sam Cooke → Bruno Mars",
+      "artist_nodes": ["sam_cooke", "al_green", "lauryn_hill", "dangelo", "erykah_badu", "sza", "olivia_dean", "bruno_mars", "cleo_sol", "leon_bridges"]
+    },
+    {
+      "id": "city_pop",
+      "name": "city pop for a walk you didn't plan",
+      "spotify_uri": "spotify:playlist:3cAt0e6obfXQ4q3iFKog3t",
+      "theme": "City pop, UK neo-soul, jazz-adjacent discovery",
+      "artist_nodes": ["leon_bridges", "cleo_sol"]
+    },
+    {
+      "id": "guitar_warm",
+      "name": "guitar warm enough to sleep in",
+      "spotify_uri": "spotify:playlist:2owMS8MpTwqyhLkyM9e5vN",
+      "theme": "To Zion-anchored warm acoustic soul — nylon-string guitar lineage",
+      "artist_nodes": ["lauryn_hill", "roberta_flack", "bill_withers", "nina_simone", "erykah_badu", "dangelo", "india_arie", "jose_feliciano", "tracy_chapman", "nick_drake", "cleo_sol"]
+    },
+    {
+      "id": "nylon_string",
+      "name": "nylon string feelings you can't name",
+      "spotify_uri": "spotify:playlist:2AspV5MZ9MtJ3g1v7VJaa0",
+      "theme": "Fado, flamenco, bossa nova, British folk — nylon-string guitar world tour",
+      "artist_nodes": ["jeff_buckley", "bert_jansch", "john_martyn", "nick_drake", "caetano_veloso", "amalia_rodrigues", "paco_de_lucia", "jose_feliciano", "rosalia", "natalia_lafourcade", "joao_gilberto", "rodrigo_gabriela"]
+    },
+    {
+      "id": "duende",
+      "name": "duende between two waters",
+      "spotify_uri": "spotify:playlist:0HAsGskELDMNOfjqKwCbmY",
+      "theme": "Flamenco pure guitar → cantaor → nuevo → jazz fusion",
+      "artist_nodes": ["paco_de_lucia", "camaron", "rodrigo_gabriela", "rosalia"]
+    },
+    {
+      "id": "late_night_folk",
+      "name": "late night somewhere between folk and soul",
+      "spotify_uri": "spotify:playlist:4lSaiD139maNrRjoM68nhi",
+      "theme": "British/Irish folk-soul + American dream folk — varied, intimate, late night",
+      "artist_nodes": ["mazzy_star", "nick_drake", "bert_jansch", "van_morrison", "tim_buckley", "john_martyn", "richard_thompson", "sandy_denny", "jeff_buckley", "cat_stevens"]
+    }
+  ],
+  "next_directions": [
+    { "item": "Bryter Layter", "artist": "Nick Drake", "type": "album", "priority": "high", "note": "Best entry point — confirmed" },
+    { "item": "Astral Weeks", "artist": "Van Morrison", "type": "album", "priority": "high", "note": "Essential" },
+    { "item": "Grace", "artist": "Jeff Buckley", "type": "album", "priority": "high", "note": "One studio album, essential" },
+    { "item": "Among My Swan", "artist": "Mazzy Star", "type": "album", "priority": "medium", "note": "Darker, better late night than So Tonight" },
+    { "item": "Moondance", "artist": "Van Morrison", "type": "album", "priority": "medium", "note": "More accessible than Astral Weeks" },
+    { "item": "Veedon Fleece", "artist": "Van Morrison", "type": "album", "priority": "medium", "note": "Celtic mysticism phase" },
+    { "item": "Solid Air", "artist": "John Martyn", "type": "album", "priority": "medium" },
+    { "item": "Bert Jansch (1965)", "artist": "Bert Jansch", "type": "album", "priority": "medium", "note": "Debut — recorded for £60 in one session" }
+  ]
+}

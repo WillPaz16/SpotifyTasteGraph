@@ -1,0 +1,905 @@
+{
+ "genres": {
+  "Atlanta hip-hop": {
+   "meta_genre": "Atlanta hip-hop",
+   "path": [
+    "Atlanta hip-hop"
+   ]
+  },
+  "British folk music": {
+   "meta_genre": "regional music",
+   "path": [
+    "British folk music",
+    "music of the United Kingdom",
+    "music of the British Isles",
+    "music of Western Europe",
+    "music of Europe",
+    "regional music"
+   ]
+  },
+  "British folk rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "British folk rock",
+    "folk rock",
+    "rock music"
+   ]
+  },
+  "Britpop": {
+   "meta_genre": "rock music",
+   "path": [
+    "Britpop",
+    "alternative rock",
+    "rock music"
+   ]
+  },
+  "Celtic music": {
+   "meta_genre": "regional music",
+   "path": [
+    "Celtic music",
+    "music of Europe",
+    "regional music"
+   ]
+  },
+  "East Coast hip-hop": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "East Coast hip-hop",
+    "American hip-hop",
+    "hip-hop"
+   ]
+  },
+  "Latin R&B": {
+   "meta_genre": "pop music",
+   "path": [
+    "Latin R&B",
+    "contemporary R&B",
+    "pop music"
+   ]
+  },
+  "Latin alternative": {
+   "meta_genre": "alternative music",
+   "path": [
+    "Latin alternative",
+    "alternative music"
+   ]
+  },
+  "Latin pop": {
+   "meta_genre": "pop music",
+   "path": [
+    "Latin pop",
+    "pop music"
+   ]
+  },
+  "Latin rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "Latin rock",
+    "rock music"
+   ]
+  },
+  "Latin trap": {
+   "meta_genre": "trap music",
+   "path": [
+    "Latin trap",
+    "trap music"
+   ]
+  },
+  "Michigan rap": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "Michigan rap",
+    "American hip-hop",
+    "hip-hop"
+   ]
+  },
+  "Midwest hip-hop": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "Midwest hip-hop",
+    "American hip-hop",
+    "hip-hop"
+   ]
+  },
+  "SoundCloud rap": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "SoundCloud rap",
+    "hip-hop"
+   ]
+  },
+  "Southern hip-hop": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "Southern hip-hop",
+    "American hip-hop",
+    "hip-hop"
+   ]
+  },
+  "adult contemporary music": {
+   "meta_genre": "pop music",
+   "path": [
+    "adult contemporary music",
+    "pop music"
+   ]
+  },
+  "alternative R&B": {
+   "meta_genre": "pop music",
+   "path": [
+    "alternative R&B",
+    "contemporary R&B",
+    "pop music"
+   ]
+  },
+  "alternative country": {
+   "meta_genre": "regional music",
+   "path": [
+    "alternative country",
+    "country music",
+    "music of North America",
+    "music of the Americas",
+    "regional music"
+   ]
+  },
+  "alternative rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "alternative rock",
+    "rock music"
+   ]
+  },
+  "art pop": {
+   "meta_genre": "pop music",
+   "path": [
+    "art pop",
+    "pop music"
+   ]
+  },
+  "art rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "art rock",
+    "rock music"
+   ]
+  },
+  "avant-garde": {
+   "meta_genre": "rock music",
+   "path": [
+    "avant-garde",
+    "rock music"
+   ]
+  },
+  "banda music": {
+   "meta_genre": "regional music",
+   "path": [
+    "banda music",
+    "regional Mexican",
+    "music of Mexico",
+    "music of Latin America",
+    "music of the Americas",
+    "regional music"
+   ]
+  },
+  "baroque pop": {
+   "meta_genre": "pop music",
+   "path": [
+    "baroque pop",
+    "pop music"
+   ]
+  },
+  "blue-eyed soul": {
+   "meta_genre": "pop music",
+   "path": [
+    "blue-eyed soul",
+    "pop music"
+   ]
+  },
+  "bluegrass music": {
+   "meta_genre": "regional music",
+   "path": [
+    "bluegrass music",
+    "country music",
+    "music of North America",
+    "music of the Americas",
+    "regional music"
+   ]
+  },
+  "blues": {
+   "meta_genre": "blues",
+   "path": [
+    "blues"
+   ]
+  },
+  "blues rock": {
+   "meta_genre": "blues",
+   "path": [
+    "blues rock",
+    "blues"
+   ]
+  },
+  "bolero": {
+   "meta_genre": "Spanish art",
+   "path": [
+    "bolero",
+    "music of Spain",
+    "Spanish art"
+   ]
+  },
+  "bossa nova": {
+   "meta_genre": "regional music",
+   "path": [
+    "bossa nova",
+    "music of Brazil",
+    "music of Latin America",
+    "music of the Americas",
+    "regional music"
+   ]
+  },
+  "bounce music": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "bounce music",
+    "Southern hip-hop",
+    "American hip-hop",
+    "hip-hop"
+   ]
+  },
+  "chamber pop": {
+   "meta_genre": "pop music",
+   "path": [
+    "chamber pop",
+    "indie pop",
+    "pop music"
+   ]
+  },
+  "chipmunk soul": {
+   "meta_genre": "chipmunk soul",
+   "path": [
+    "chipmunk soul"
+   ]
+  },
+  "classical music": {
+   "meta_genre": "art music",
+   "path": [
+    "classical music",
+    "art music"
+   ]
+  },
+  "cloud rap": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "cloud rap",
+    "hip-hop"
+   ]
+  },
+  "conscious hip-hop": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "conscious hip-hop",
+    "rapping",
+    "hip-hop"
+   ]
+  },
+  "contemporary R&B": {
+   "meta_genre": "pop music",
+   "path": [
+    "contemporary R&B",
+    "pop music"
+   ]
+  },
+  "contemporary folk music": {
+   "meta_genre": "folk music",
+   "path": [
+    "contemporary folk music",
+    "folk music"
+   ]
+  },
+  "corrido": {
+   "meta_genre": "traditional folk song",
+   "path": [
+    "corrido",
+    "traditional folk song"
+   ]
+  },
+  "corridos tumbados": {
+   "meta_genre": "corridos tumbados",
+   "path": [
+    "corridos tumbados"
+   ]
+  },
+  "country music": {
+   "meta_genre": "regional music",
+   "path": [
+    "country music",
+    "music of North America",
+    "music of the Americas",
+    "regional music"
+   ]
+  },
+  "country pop": {
+   "meta_genre": "pop music",
+   "path": [
+    "country pop",
+    "pop music"
+   ]
+  },
+  "country soul": {
+   "meta_genre": "rhythm and blues",
+   "path": [
+    "country soul",
+    "soul",
+    "rhythm and blues"
+   ]
+  },
+  "dance-pop": {
+   "meta_genre": "pop music",
+   "path": [
+    "dance-pop",
+    "pop music"
+   ]
+  },
+  "dancehall": {
+   "meta_genre": "music of the Greater Antilles",
+   "path": [
+    "dancehall",
+    "reggae",
+    "music of Jamaica",
+    "music of the Greater Antilles"
+   ]
+  },
+  "dirty south": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "dirty south",
+    "American hip-hop",
+    "hip-hop"
+   ]
+  },
+  "dream pop": {
+   "meta_genre": "rock music",
+   "path": [
+    "dream pop",
+    "indie rock",
+    "alternative rock",
+    "rock music"
+   ]
+  },
+  "electro": {
+   "meta_genre": "electronic music",
+   "path": [
+    "electro",
+    "electronic dance music",
+    "electronic music"
+   ]
+  },
+  "electronic music": {
+   "meta_genre": "electronic music",
+   "path": [
+    "electronic music"
+   ]
+  },
+  "electronic rock": {
+   "meta_genre": "electronic music",
+   "path": [
+    "electronic rock",
+    "electronic music"
+   ]
+  },
+  "electropop": {
+   "meta_genre": "electronic music",
+   "path": [
+    "electropop",
+    "electronic pop",
+    "electronic music"
+   ]
+  },
+  "emo rap": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "emo rap",
+    "hip-hop"
+   ]
+  },
+  "experimental rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "experimental rock",
+    "rock music"
+   ]
+  },
+  "flamenco": {
+   "meta_genre": "folk dance",
+   "path": [
+    "flamenco",
+    "folk dance"
+   ]
+  },
+  "folk music": {
+   "meta_genre": "folk music",
+   "path": [
+    "folk music"
+   ]
+  },
+  "folk rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "folk rock",
+    "rock music"
+   ]
+  },
+  "folk-pop": {
+   "meta_genre": "pop music",
+   "path": [
+    "folk-pop",
+    "pop music"
+   ]
+  },
+  "funk": {
+   "meta_genre": "funk",
+   "path": [
+    "funk"
+   ]
+  },
+  "gangsta rap": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "gangsta rap",
+    "hardcore hip-hop",
+    "hip-hop"
+   ]
+  },
+  "garage rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "garage rock",
+    "rock music"
+   ]
+  },
+  "glam rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "glam rock",
+    "rock music"
+   ]
+  },
+  "gospel music": {
+   "meta_genre": "functional music",
+   "path": [
+    "gospel music",
+    "Christian music",
+    "religious music",
+    "functional music"
+   ]
+  },
+  "hard rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "hard rock",
+    "rock music"
+   ]
+  },
+  "hardcore hip-hop": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "hardcore hip-hop",
+    "hip-hop"
+   ]
+  },
+  "hip-hop": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "hip-hop"
+   ]
+  },
+  "hip-hop soul": {
+   "meta_genre": "pop music",
+   "path": [
+    "hip-hop soul",
+    "contemporary R&B",
+    "pop music"
+   ]
+  },
+  "house music": {
+   "meta_genre": "electronic music",
+   "path": [
+    "house music",
+    "electronic dance music",
+    "electronic music"
+   ]
+  },
+  "indie folk": {
+   "meta_genre": "independent music",
+   "path": [
+    "indie folk",
+    "independent music"
+   ]
+  },
+  "indie pop": {
+   "meta_genre": "pop music",
+   "path": [
+    "indie pop",
+    "pop music"
+   ]
+  },
+  "indie rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "indie rock",
+    "alternative rock",
+    "rock music"
+   ]
+  },
+  "instrumental rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "instrumental rock",
+    "rock music"
+   ]
+  },
+  "jangle pop": {
+   "meta_genre": "rock music",
+   "path": [
+    "jangle pop",
+    "alternative rock",
+    "rock music"
+   ]
+  },
+  "jazz": {
+   "meta_genre": "jazz",
+   "path": [
+    "jazz"
+   ]
+  },
+  "jazz fusion": {
+   "meta_genre": "jazz",
+   "path": [
+    "jazz fusion",
+    "jazz"
+   ]
+  },
+  "music of Brazil": {
+   "meta_genre": "regional music",
+   "path": [
+    "music of Brazil",
+    "music of Latin America",
+    "music of the Americas",
+    "regional music"
+   ]
+  },
+  "music of Latin America": {
+   "meta_genre": "regional music",
+   "path": [
+    "music of Latin America",
+    "music of the Americas",
+    "regional music"
+   ]
+  },
+  "m\u00fasica popular brasileira": {
+   "meta_genre": "regional music",
+   "path": [
+    "m\u00fasica popular brasileira",
+    "music of Brazil",
+    "music of Latin America",
+    "music of the Americas",
+    "regional music"
+   ]
+  },
+  "neo soul": {
+   "meta_genre": "rhythm and blues",
+   "path": [
+    "neo soul",
+    "soul",
+    "rhythm and blues"
+   ]
+  },
+  "neo-prog": {
+   "meta_genre": "rock music",
+   "path": [
+    "neo-prog",
+    "progressive rock",
+    "rock music"
+   ]
+  },
+  "neotraditional country": {
+   "meta_genre": "neotraditional country",
+   "path": [
+    "neotraditional country"
+   ]
+  },
+  "new flamenco": {
+   "meta_genre": "folk dance",
+   "path": [
+    "new flamenco",
+    "flamenco",
+    "folk dance"
+   ]
+  },
+  "new jack swing": {
+   "meta_genre": "new jack swing",
+   "path": [
+    "new jack swing"
+   ]
+  },
+  "new wave": {
+   "meta_genre": "new wave",
+   "path": [
+    "new wave"
+   ]
+  },
+  "norte\u00f1o": {
+   "meta_genre": "regional music",
+   "path": [
+    "norte\u00f1o",
+    "regional Mexican",
+    "music of Mexico",
+    "music of Latin America",
+    "music of the Americas",
+    "regional music"
+   ]
+  },
+  "nu metal": {
+   "meta_genre": "alternative music",
+   "path": [
+    "nu metal",
+    "alternative metal",
+    "alternative music"
+   ]
+  },
+  "pop music": {
+   "meta_genre": "pop music",
+   "path": [
+    "pop music"
+   ]
+  },
+  "pop rap": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "pop rap",
+    "hip-hop"
+   ]
+  },
+  "pop rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "pop rock",
+    "rock music"
+   ]
+  },
+  "pop soul": {
+   "meta_genre": "pop music",
+   "path": [
+    "pop soul",
+    "pop music"
+   ]
+  },
+  "pop-punk": {
+   "meta_genre": "rock music",
+   "path": [
+    "pop-punk",
+    "punk rock",
+    "punk music",
+    "rock music"
+   ]
+  },
+  "post-punk": {
+   "meta_genre": "rock music",
+   "path": [
+    "post-punk",
+    "punk music",
+    "rock music"
+   ]
+  },
+  "post-punk revival": {
+   "meta_genre": "rock music",
+   "path": [
+    "post-punk revival",
+    "indie rock",
+    "alternative rock",
+    "rock music"
+   ]
+  },
+  "power pop": {
+   "meta_genre": "rock music",
+   "path": [
+    "power pop",
+    "pop rock",
+    "rock music"
+   ]
+  },
+  "progressive rap": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "progressive rap",
+    "hip-hop"
+   ]
+  },
+  "psychedelic hip-hop": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "psychedelic hip-hop",
+    "hip-hop"
+   ]
+  },
+  "psychedelic rap": {
+   "meta_genre": "hip-hop",
+   "path": [
+    "psychedelic rap",
+    "hip-hop"
+   ]
+  },
+  "punk blues": {
+   "meta_genre": "rock music",
+   "path": [
+    "punk blues",
+    "punk music",
+    "rock music"
+   ]
+  },
+  "punk rap": {
+   "meta_genre": "rock music",
+   "path": [
+    "punk rap",
+    "punk rock",
+    "punk music",
+    "rock music"
+   ]
+  },
+  "rage": {
+   "meta_genre": "rage",
+   "path": [
+    "rage"
+   ]
+  },
+  "red dirt": {
+   "meta_genre": "rock music",
+   "path": [
+    "red dirt",
+    "Southern rock",
+    "rock music"
+   ]
+  },
+  "reggae": {
+   "meta_genre": "music of the Greater Antilles",
+   "path": [
+    "reggae",
+    "music of Jamaica",
+    "music of the Greater Antilles"
+   ]
+  },
+  "reggaeton": {
+   "meta_genre": "reggaeton",
+   "path": [
+    "reggaeton"
+   ]
+  },
+  "regional Mexican": {
+   "meta_genre": "regional music",
+   "path": [
+    "regional Mexican",
+    "music of Mexico",
+    "music of Latin America",
+    "music of the Americas",
+    "regional music"
+   ]
+  },
+  "rhythm and blues": {
+   "meta_genre": "rhythm and blues",
+   "path": [
+    "rhythm and blues"
+   ]
+  },
+  "rock music": {
+   "meta_genre": "rock music",
+   "path": [
+    "rock music"
+   ]
+  },
+  "roots rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "roots rock",
+    "rock music"
+   ]
+  },
+  "rumba flamenca": {
+   "meta_genre": "folk dance",
+   "path": [
+    "rumba flamenca",
+    "flamenco",
+    "folk dance"
+   ]
+  },
+  "sierre\u00f1a": {
+   "meta_genre": "regional music",
+   "path": [
+    "sierre\u00f1a",
+    "norte\u00f1o",
+    "regional Mexican",
+    "music of Mexico",
+    "music of Latin America",
+    "music of the Americas",
+    "regional music"
+   ]
+  },
+  "soft rock": {
+   "meta_genre": "rock music",
+   "path": [
+    "soft rock",
+    "pop rock",
+    "rock music"
+   ]
+  },
+  "soul": {
+   "meta_genre": "rhythm and blues",
+   "path": [
+    "soul",
+    "rhythm and blues"
+   ]
+  },
+  "synth-pop": {
+   "meta_genre": "electronic music",
+   "path": [
+    "synth-pop",
+    "electronic pop",
+    "electronic music"
+   ]
+  },
+  "teen pop": {
+   "meta_genre": "pop music",
+   "path": [
+    "teen pop",
+    "pop music"
+   ]
+  },
+  "traditional folk music": {
+   "meta_genre": "folk music",
+   "path": [
+    "traditional folk music",
+    "folk music"
+   ]
+  },
+  "trap music": {
+   "meta_genre": "trap music",
+   "path": [
+    "trap music"
+   ]
+  },
+  "urbano music": {
+   "meta_genre": "Latin music",
+   "path": [
+    "urbano music",
+    "Latin music"
+   ]
+  }
+ },
+ "meta_genres": [
+  "Atlanta hip-hop",
+  "Latin music",
+  "Spanish art",
+  "alternative music",
+  "art music",
+  "blues",
+  "chipmunk soul",
+  "corridos tumbados",
+  "electronic music",
+  "folk dance",
+  "folk music",
+  "functional music",
+  "funk",
+  "hip-hop",
+  "independent music",
+  "jazz",
+  "music of the Greater Antilles",
+  "neotraditional country",
+  "new jack swing",
+  "new wave",
+  "pop music",
+  "rage",
+  "reggaeton",
+  "regional music",
+  "rhythm and blues",
+  "rock music",
+  "traditional folk song",
+  "trap music"
+ ]
+}
